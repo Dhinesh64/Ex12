@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<book>
+    <book>
+        <id>202401</id>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>J. K. Rowling</author>
+        <year>2015</year>
+    </book>
+    <book>
+        <id>202402</id>
+        <title>And Then There Were None1</title>
+        <author>Agatha Christie</author>
+        <year>1999</year>
+    </book>
+    <book>
+        <id>202403</id>
+        <title>And Then There Were None2</title>
+        <author>Agatha Christie</author>
+        <year>2003</year>
+    </book>
+    <book>
+        <id>202404</id>
+        <title>Dream of the Red Chamber </title>
+        <author>Cao Xueqin</author>
+        <year>1998</year>
+    </book>
+    <book>
+        <id>202405</id>
+        <title>The Hobbit</title>
+        <author>J.R.R.Tolkien</author>
+        <year>2012</year>
+    </book>
+</book>
